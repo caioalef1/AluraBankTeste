@@ -4,22 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e298f99-cce0-4744-a239-5d78fe14aaad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AluraBankTeste.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CargoAnalista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CargoGerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControleBonificacaoFuncionarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CriarConta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GerenciamentoDeSaldo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteContas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteFuncionarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TitularConta.java" afterDir="false" />
+    <list default="true" id="6e298f99-cce0-4744-a239-5d78fe14aaad" name="Changes" comment="#2master">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CriarConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CriarConta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GerenciamentoDeSaldo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TesteContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesteContas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,19 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/javalura/Javabank/AluraBank",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.TesteContas">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -100,11 +92,34 @@
       <updated>1679426398796</updated>
       <workItem from="1679426399966" duration="854000" />
       <workItem from="1679427273408" duration="7045000" />
-      <workItem from="1679519156459" duration="482000" />
+      <workItem from="1679519156459" duration="2940000" />
     </task>
+    <task id="LOCAL-00001" summary="#2master">
+      <created>1679519727019</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679519727019</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#2master" />
+    <option name="LAST_COMMIT_MESSAGE" value="#2master" />
   </component>
 </project>
